@@ -1,4 +1,4 @@
-# etch-a-sketch
+# etch-a-sketch-demo
 
 * There are 16x16 grid of squares in a webpage.
 * Using a "hover" effect to change color of the grids when passing mouse over them, leaving a (pixelate) trail through the grid like a pen would.
